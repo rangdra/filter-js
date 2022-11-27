@@ -1,1 +1,1 @@
-# Filterb Products with Vanilla JS
+# Filter Products with Vanilla JS
